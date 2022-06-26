@@ -4,6 +4,14 @@ high performance fabric based minecraft client for 1,18.2, made for the Divan mi
 All of the mods listed have been created by other developers, and are listed under GPL or MIT licenses
 
 
+# Installing Fox Client
+
+1 copy https://github.com/toastxc/Fox-Client/releases/download/0.3.1/foxclient.1.18.2.v0.3.1.zip
+
+2 in PolyMC:
+Add instance -> import from zip -> paste 
+
+
 # Mod list
 - appleskin-fabric-mc1.18.2-2.4.0.jar
 - BetterF3-1.2.4-Fabric-1.18.2.jar
