@@ -4,8 +4,11 @@ high performance fabric based minecraft client for 1,18.2, made for the Divan mi
 
 # Mod list
 appleskin-fabric-mc1.18.2-2.4.0.jar
+
 BetterF3-1.2.4-Fabric-1.18.2.jar
+
 better-loading-screen-1.4.0.jar
+
 BetterPingDisplay-Fabric-1.18.1-1.1.1.jar
 CITResewn-1.0.1+1.18.2.jar
 cullleaves-2.3.2.jar
